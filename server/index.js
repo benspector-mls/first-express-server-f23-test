@@ -1,5 +1,5 @@
 // Imports:
-const gifs = require('.gifs.json');   // our mock data
+const gifs = require('./gifs.json');   // our mock data
 const express = require('express');   // used to configure the express server
 
 // The `app` object configures the server
